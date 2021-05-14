@@ -8,7 +8,7 @@ Halal Crypto Trading & Solutions
 ## Roadmap
 ## Media
 ## Social
-[Halal Broker Github](https://github.com/7robbie5/halal-broker)
+[Halal Broker Github](https://github.com/7robbie5/halal-broker)&nbsp;&#124;&nbsp;[Twitter](https://twitter.com/BrokerHalal)&nbsp;&#124;&nbsp;[Medium](https://medium.com/@halal.broker)
 ## Crypto Trading Exchanges
 [Halal Broker](http://halal.broker)
 ### Credits
