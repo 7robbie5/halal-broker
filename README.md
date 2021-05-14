@@ -13,4 +13,4 @@ Halal Trading by using Smart Contracts -  a set of predetermined rules for execu
 ## Crypto Trading Exchanges
 [Halal Broker](http://halal.broker)
 ### Credits
-2021&nbsp;[Honig](http://www.robhonig.com)&nbsp;&trade;
+&copy;&nbsp;2021&nbsp;[Halal Broker](http://halal.broker)
