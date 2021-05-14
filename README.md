@@ -1,4 +1,8 @@
 # Halal Broker
+## Whitepaper
+## Team
+## FAQ
+## Roadmap
 ## Social
 [Halal Broker Github](https://github.com/7robbie5/halal-broker)
 ## Crypto Trading Exchanges
