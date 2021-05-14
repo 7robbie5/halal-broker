@@ -13,7 +13,7 @@ Q2-2021 : Halal Broker Token
 Q3-2021 : Halal Broker Smart Contracts 
 ## Media
 ## Social
-[Halal Broker Github](https://github.com/7robbie5/halal-broker)&nbsp;&#124;&nbsp;[Twitter](https://twitter.com/BrokerHalal)&nbsp;&#124;&nbsp;[Medium](https://medium.com/@halal.broker)
+[Halal Broker Github](https://github.com/7robbie5/halal-broker)&nbsp;&#124;&nbsp;[Twitter](https://twitter.com/BrokerHalal)&nbsp;&#124;&nbsp;[Medium](https://halal-broker.medium.com/)
 ## Crypto Trading Exchanges
 [Halal Broker](http://halal.broker)
 ### Credits
