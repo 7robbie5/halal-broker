@@ -3,10 +3,13 @@ Halal Crypto Trading & Solutions
 ## Technology
 Halal Trading by using Smart Contracts -  a set of predetermined rules for execution - without the involvement of an intermediary, Halal Broker Smart Contracts will run on the Cardano Blockchain. Our contracts comply with Sharia Law. 
 ## Products
+- Halal Broker Smart Contracts (HBSC)
+- Halal Broker Token ($HBT)
 ## Whitepaper
 ## Team
 ## FAQ
 ## Roadmap
+Q2-2021 : Halal Broker Token
 Q3-2021 : Halal Broker Smart Contracts 
 ## Media
 ## Social
