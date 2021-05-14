@@ -1,4 +1,5 @@
 # Halal Broker
+Halal Crypto Trading & Solutions 
 ## Technology
 ## Products
 ## Whitepaper
