@@ -10,7 +10,8 @@ Halal Trading by using Smart Contracts -  a set of predetermined rules for execu
 ## FAQ
 ## Roadmap
 - Q2-2021 : Halal Broker Token
-- Q3-2021 : Halal Broker Smart Contracts 
+- Q3-2021 : Halal Broker Smart Contracts
+- Q4-2021 : Halal Swap
 ## Media
 [Halal Trading with Halal Broker](https://halal-broker.medium.com/halal-trading-with-halal-broker-57633538d38b)
 ## Social
