@@ -14,13 +14,13 @@ Our token is based on 4 principles:
 - Same level of safety and security like $ADA;
 - Unified process; All tokens will be handled in the same way.
 ## $HBT Price and Market Stats
-- Market Cap
-- Trading Volume
+- Market Cap: N/A
+- Trading Volume: N/A
 - Max Supply: 50.000.000
-- Circulating
+- Circulating: N/A
 - Policy: One-time minting
-- All-Time High
-- All-Time Low
+- All-Time High: N/A
+- All-Time Low: N/A
 ## Team
 ## FAQ
 ## Roadmap
