@@ -16,7 +16,7 @@ Our token is based on 4 principles:
 ## $HBT Price and Market Stats
 - Market Cap: N/A
 - Trading Volume: N/A
-- Max Supply: 50.000.000
+- Max Supply: 3.000.000
 - Circulating: N/A
 - Policy: One-time minting
 - All-Time High: N/A
