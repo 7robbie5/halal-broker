@@ -31,7 +31,8 @@ Our token is based on 4 principles:
 ## Media
 [Halal Trading with Halal Broker](https://halal-broker.medium.com/halal-trading-with-halal-broker-57633538d38b)
 ## Social
-[Halal Broker Github](https://github.com/7robbie5/halal-broker)&nbsp;&#124;&nbsp;[Twitter](https://twitter.com/BrokerHalal)&nbsp;&#124;&nbsp;
+[Halal Broker Github](https://github.com/7robbie5/halal-broker)&nbsp;&#124;&nbsp;
+[Twitter](https://twitter.com/BrokerHalal)&nbsp;&#124;&nbsp;
 [Medium](https://halal-broker.medium.com/)
 ## Crypto Trading Exchanges
 [Halal Broker](http://halal.broker)
