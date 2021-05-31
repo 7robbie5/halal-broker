@@ -1,4 +1,4 @@
-# Halal Broker https://badgen.net/github/license/micromatch/micromatch
+# Halal Broker
 Halal Crypto Trading & Services with Financial Solutions 
 ## Technology
 Halal Trading by using Smart Contracts -  a set of predetermined rules for execution - without the involvement of an intermediary,
