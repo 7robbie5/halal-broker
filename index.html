@@ -14,10 +14,16 @@
 body {
   background-color: #fff;
   font-family: Georgia, Times, "Times New Roman", serif;
-  background-image: url("halal_broker_arabic.png");
-  background-repeat: no-repeat;
-  background-position: right top;
+  margin: 0;
 }
+    .halal {
+  width: 960px; /* GIVE THE WRAPPING ELEMENT A WIDTH */
+  margin: 0 auto; /* USE MARGIN (0 AUTO) TO CENTER THE WRAPPER ON THE SCREEN */
+}
+    
+#header {height: 100px; background: orange}
+#content {height: 800px; background: grey}
+#footer {height: 150px; background: pink}
     p {  color: #000;font-size: 20px;}
     ul {  color: #000;font-size: 20px;}
     li {  color: #000;font-size: 20px;}
@@ -36,18 +42,20 @@ h2 {
   
   <body>
     
-    <div class=" ">
+    <div class="halal">
+      <div id="header">
       <header class=" ">
           <h1>Halal Broker</h1>
   </header>
-
+<div>
+  <div id="content">
   <main>
     <h2>Halal Broker - Halal Crypto Trading and Financial Solutions</h2>
     <p class=" ">Halal Trading by using Smart Contracts -  a set of predetermined rules for execution - without the involvement of an intermediary,</p>
 <p>Our contracts comply with Sharia Law.</p>
 
     <div class=" ">
-      <p><a href="http://halal.broker/">Get Started</a></p>
+      <p><a href="http://halal.broker/">Get Started</a>&nbsp;&nbsp;<a href="http://halal.broker/">Whitepaper</a></p>
     </div>
 
     <hr class=" ">
@@ -77,8 +85,10 @@ h2 {
       </div>
     </div>
   </main>
-      <hr class=" ">      
-      <footer><p>&#x20B3;&nbsp;2021&nbsp;<a href="http://halal.broker/">Halal Broker</a>&nbsp;&nbsp;<a href="https://twitter.com/BrokerHalal">Twitter</a>&nbsp;&nbsp;<a href="https://halal-broker.medium.com/">Medium</a>&nbsp;&nbsp;<a href="http://halal.broker/">Whitepaper</a>&nbsp;&nbsp;<a href="http://halal.broker/">Contact</a></p></footer>
-</div>
+  </div>
+  <div id="footer">
+     <footer><p>&#x20B3;&nbsp;2021&nbsp;<a href="http://halal.broker/">Halal Broker</a>&nbsp;&nbsp;<a href="https://twitter.com/BrokerHalal">Twitter</a>&nbsp;&nbsp;<a href="https://halal-broker.medium.com/">Medium</a>&nbsp;&nbsp;<a href="http://halal.broker/">Contact</a></p></footer>
+  </div>
+ </div>
 </body
 </html>
