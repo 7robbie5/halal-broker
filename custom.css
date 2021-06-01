@@ -1,4 +1,21 @@
 /* all links olive:  */
-a {color: #708238;}
+a:link {
+  color: #708238;
+  }
+
+a:visited {
+  color: #708238;
+  }
+
+a:hover {
+  color: #708238;
+  }
+
+a:active {
+  color: #708238;
+  }
 /* all links olive:  */
-mark {background-color:#708238;color: #ffffff;}
+mark {
+  background-color:#708238;
+  color: #ffffff;
+  }
