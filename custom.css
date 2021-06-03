@@ -19,3 +19,10 @@ mark {
   background-color:#708238;
   color: #ffffff;
   }
+/* SVG Icons */
+.icon:hover {
+  filter: invert(0.5)
+}
+.icon {
+  filter: filter: grayscale(100%) sepia(100%);
+}
