@@ -21,7 +21,7 @@ mark {
   }
 /* SVG Icons */
 .icon:hover {
-  filter: invert(0.5);
+  filter: none;
 }
 .icon {
   filter: grayscale(100%) sepia(100%);
